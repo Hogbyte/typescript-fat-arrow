@@ -14,7 +14,7 @@ const USERS: IUser[] = [
     { gamerTag: "Jenny Matrix", realName: "Jennifer Matthews" }
 ];
 
-// EXAMPLE PREMIS:
+// EXAMPLE PREMISE:
 // 1 - Filter out users that have a space in their gamer tag
 // 2 - Get the user's real name
 // 3 - Convert the user's real name to uppercase letters
