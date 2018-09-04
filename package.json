@@ -1,0 +1,17 @@
+{
+  "name": "typescript-fat-arrow",
+  "version": "1.0.0",
+  "description": "Using fat-arrow functions in TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc && node index.js"
+  },
+  "author": "David Christensen",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.0.3"
+  },
+  "dependencies": {
+    "rxjs": "^6.3.2"
+  }
+}
