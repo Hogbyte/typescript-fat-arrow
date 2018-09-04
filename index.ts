@@ -20,6 +20,10 @@ const USERS: IUser[] = [
 // 3 - Convert the user's real name to uppercase letters
 // 4 - Write the result to the JavaScript console
 
+// NOTES:
+// - Each function uses "user" as a parameter name, this is intentional
+//   for demonstration purposes
+
 // EXAMPLE 1 - Simple (no types)
 console.log("\nEXAMPLE 1 - Simple (no types)");
 
